@@ -1844,7 +1844,7 @@ hr,
 }
 
 .notifications .list-group-item.read {
-    background-color: var(--accent-color);
+    background-color: var(--depth-color);
 }
     
 .notifications .read .list-group-item-name>a {
